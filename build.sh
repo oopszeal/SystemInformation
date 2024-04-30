@@ -8,4 +8,4 @@ sudo wget https://github.com/oopszeal/SystemInformation/releases/download/add/de
 
 cd
 
-sudo apt install build-essential
+sudo apt install build-essential -y
